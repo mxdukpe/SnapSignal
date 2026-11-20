@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/banner.png" alt="SnapSignal — signalement d'incidents relayé en temps réel sur Telegram" width="100%">
+</p>
+
 # 🚨 SnapSignal (AlertBot)
 
 Un système de signalement d'incidents qui connecte une interface web moderne directement à un canal Telegram en temps réel.
